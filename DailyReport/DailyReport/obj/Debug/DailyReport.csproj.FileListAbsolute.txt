@@ -1,0 +1,6 @@
+C:\Users\nicol\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\nicol\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\nicol\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\nicol\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\nicol\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
