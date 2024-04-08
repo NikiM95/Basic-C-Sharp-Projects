@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AbstractClassAssignment
 {
     //Create a class called Employee and have it inherit from the Person class
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         //Give the class a property called Id and have it to int data type
         public int Id { get; set; }
@@ -15,6 +15,10 @@ namespace AbstractClassAssignment
         public override void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
+        }
+        public void Quit()
+        {
+            Console.WriteLine("Employee quits the job.");
         }
     }
 }

@@ -15,6 +15,13 @@ namespace AbstractClassAssignment
             //Call the superclass method SayName() on the Employee object
             name.SayName();
             Console.ReadLine();
+
+            // Using polymorphism to Create an object of type IQuittable
+            IQuittable quittableEmployee = new Employee();
+
+            // Call the Quit method on the IQuittable object
+            quittableEmployee.Quit();
+            Console.ReadLine();
         }
     }
 }
